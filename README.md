@@ -12,7 +12,7 @@ pkg install toilet -y
 
 pkg install git -y
 
-git clone https://github.com/ooo9204/wa-ban
+git clone https://github.com/moseskyala/whatsapp-ban
 
 cd wa-ban
 
