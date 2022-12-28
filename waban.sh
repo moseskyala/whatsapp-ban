@@ -213,7 +213,7 @@ sleep 10
 printf $green
 read -p "[×]Enter a option: " op
 ip(){
-read -p "[×]ENTER VICTIM's NUMBER(with +91): " wifi
+read -p "[×]ENTER VICTIM's NUMBER(with +255): " wifi
 }
 if [ $op==1 ]
 then
